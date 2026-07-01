@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruipedrossantos
-- 👀 I’m interested in Graphic Design ans sports
-- 🌱 I’m currently learning Python 3 anda Machine Learning
+- 👀 I’m interested in Graphic Design and sports
+- 🌱 I’m currently learning Python 3 and Machine Learning
 - 💞️ I’m looking to collaborate on projects with Python 3 and Machine Learning
 - 😄 Pronouns: Genki anda Kira 
 - ⚡ Fun fact: I love anime and sometime read manga.
